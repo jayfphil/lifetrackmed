@@ -1,0 +1,24 @@
+{
+    "name": "pepperstone-test",
+    "description": "Programming test",
+    "keywords": ["pepperstone", "test"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phil Jayson San Pedro",
+            "email": "jayfphil@gmail.com",
+            "role": "Full-stack Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pepper\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
