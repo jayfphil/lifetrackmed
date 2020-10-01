@@ -22,7 +22,7 @@
              </div>
             <button class="btn btn-primary" id="ajaxSubmit">Submit</button>
           </form>
-          <hr />
+
           <table id="myTable" class="table table-striped">
             <thead>
               <th>
